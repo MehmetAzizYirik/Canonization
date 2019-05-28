@@ -24,10 +24,13 @@
 
 
 /**
- * This class is for morgan number generation. Atoms in atom containers are re-ordered
- * after the morgan numbering of the molecules.
- * 
  * @author Mehmet Aziz Yirik
+ *
+ * The test class for the implementations of Morgan enumaration and canonization of the molecule based on the Morgan numbering.
+ * For more information, Morgan's paper is also referenced below.
+ * 
+ * Reference: Morgan, H. L. "The generation of a unique machine description for chemical structures-a technique 
+ * developed at chemical abstracts service." Journal of Chemical Documentation 5.2 (1965): 107-113.
  */
 
 
